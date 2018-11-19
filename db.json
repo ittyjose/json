@@ -1,6 +1,7 @@
 {
   "user": {
     "zid": "admin",
-    "password": "admin"
+    "email":"ittyjose@gmail.com",
+   "name":"Itty Jose"
   }
 }
