@@ -1,7 +1,30 @@
 {
-  "user": {
-    "zid": "admin",
-    "email":"ittyjose@gmail.com",
-   "name":"Itty Jose"
-  }
+    "Status": "0",
+    "Message": "Successfull",
+    "KPIS": [
+        {
+            "actualValue": 80,
+            "budgetedValue": 100,
+            "title": "Warranty Payment",
+            "color": 2
+        },
+        {
+            "actualValue": 12,
+            "budgetedValue": 12,
+            "title": "12MIS",
+            "color": 1
+        },
+        {
+            "actualValue": 3,
+            "budgetedValue": 3,
+            "title": "3MIS",
+            "color": 2
+        },
+        {
+            "actualValue": 336,
+            "budgetedValue": 36,
+            "title": "36MIS",
+            "color": 1
+        }
+    ]
 }
